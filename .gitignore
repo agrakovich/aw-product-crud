@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AdwentureWorksProductCrud
+/AdwentureWorksProduct.DbModel/obj
+/AdwentureWorksProduct.DbModel/bin/Debug/netcoreapp2.1
+/AdwentureWorksProduct.Services/obj
+/AdwentureWorksProduct.Services/bin/Debug/netcoreapp2.1
+/AdwentureWorksProduct.Web/bin/Debug/netcoreapp2.1
+/AdwentureWorksProduct.Web/obj
+/AdwentureWorksProductCrud/bin/Debug/netcoreapp2.1
+/AdwentureWorksProductCrud/obj
